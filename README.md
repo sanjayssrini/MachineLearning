@@ -21,10 +21,6 @@ To learn to train a simple Linear Regression Model using Python.
   Predicts taxi fare amounts from trip data using linear regression.  
   Dataset: [Kaggle Chicago Taxi Trips](https://www.kaggle.com/datasets/adelanseur/taxi-trips-chicago-2024)
 
----
 
-A virtual environment with all dependencies is included for easy setup.
-
----
 
 
