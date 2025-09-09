@@ -59,7 +59,7 @@ To understand and apply Principal Component Analysis for dimensionality reductio
   - **PC2 → Health**  
   - **PC3 → Crime**  
 
-# Activity 4: Decision Tree Classifier  
+### Activity 4: Decision Tree Classifier  
 
 **Aim:**  
 To apply Decision Tree Classification for predicting outcomes and visualizing the decision-making process.  
