@@ -59,4 +59,30 @@ To understand and apply Principal Component Analysis for dimensionality reductio
   - **PC2 → Health**  
   - **PC3 → Crime**  
 
+# Activity 4: Decision Tree Classifier  
+
+**Aim:**  
+To apply Decision Tree Classification for predicting outcomes and visualizing the decision-making process.  
+
+**Activities Done:**
+  
+- **Diabetes Prediction:**  
+  Predicted whether a person has **diabetes** based on medical features such as **Pregnancies, Glucose, Blood Pressure, Skin Thickness, Insulin, BMI, Diabetes Pedigree Function, and Age**.  
+  Steps: preprocessing, train-test split, model training, tree visualization, accuracy & confusion matrix.  
+  **Dataset:** [Pima Indians Diabetes Database](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)  
+
+- **House Purchase Prediction:**  
+  Predicted whether a person buys a house based on **Age** and **Income**.  
+  Steps: preprocessing, train-test split, model training, tree visualization, accuracy & confusion matrix.  
+  **Dataset:** [Social Network Ads](https://www.kaggle.com/datasets/rakeshrau/social-network-ads)  
+
+- **Free Time Activity Based on Weather:**  
+  Predicted whether a person **goes out** or **stays in** based on **Weather** and **Activity**.  
+  Steps: categorical encoding, train-test split, model training, tree visualization, confusion matrix.  
+  **Dataset:** [Simple Weather Forecast](https://www.kaggle.com/datasets/dheemanthbhat/simple-weather-forecast)  
+
+
+
+
+
 
