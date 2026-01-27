@@ -102,6 +102,25 @@ To apply Support Vector Machine (SVM) classification for identifying patterns in
   Steps: generating random data points, labeling based on quadratic condition, train-test split, model training with polynomial kernel, prediction, accuracy evaluation, and decision boundary visualization.  
   **Dataset:** Synthetic dataset generated using Python (features: **x₁, x₂**, labels based on quadratic relationship).
 
+### Activity 6: XGBoost (eXtreme Gradient Boosting)
+
+**Aim:**  
+To understand and implement XGBoost, an advanced gradient boosting algorithm, for classification tasks and learn about its key features such as regularization, feature importance, and high performance.
+
+**Activities Done:**
+
+- **Wine Classification:**  
+  Classified wine samples into three types/classes based on their origin using **13 chemical properties** including alcohol content, acidity, phenols, color intensity, and other wine characteristics.  
+  Steps: data loading and exploration, preprocessing with feature scaling, model training with key XGBoost parameters (n_estimators, max_depth, learning_rate), performance evaluation using accuracy and confusion matrix, feature importance analysis to identify key predictors, and making predictions on new samples.  
+  **Dataset:** [Wine Dataset from sklearn](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_wine.html)
+
+**Key Concepts Covered:**
+- Understanding gradient boosting and ensemble methods
+- XGBoost parameters and their impact on model performance
+- Regularization techniques to prevent overfitting
+- Feature importance analysis for model interpretability
+- Comparison with other machine learning algorithms
+
 
 
 
