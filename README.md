@@ -109,8 +109,8 @@ To understand and implement XGBoost, an advanced gradient boosting algorithm, fo
 
 **Activities Done:**
 
-- **Wine Quality Classification:**  
-  Classified wine samples into three quality classes based on **13 chemical properties** including alcohol content, acidity, phenols, color intensity, and other wine characteristics.  
+- **Wine Classification:**  
+  Classified wine samples into three types/classes based on their origin using **13 chemical properties** including alcohol content, acidity, phenols, color intensity, and other wine characteristics.  
   Steps: data loading and exploration, preprocessing with feature scaling, model training with key XGBoost parameters (n_estimators, max_depth, learning_rate), performance evaluation using accuracy and confusion matrix, feature importance analysis to identify key predictors, and making predictions on new samples.  
   **Dataset:** [Wine Dataset from sklearn](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_wine.html)
 
